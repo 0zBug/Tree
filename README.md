@@ -1,6 +1,3 @@
-# REWRITE
-https://github.com/0zBug/Tree
-
 # Tree
 A simple lua module inspired by bash's tree command.
 
